@@ -1,0 +1,10 @@
+{
+    "require": {
+        "nategood/httpful": "^0.2.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "DataDrivenDesign\\VoiceDesigner\\": "src/"
+        }
+    }
+}
